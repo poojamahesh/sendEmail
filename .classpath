@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Pooja/Downloads/javax.mail(1).jar"/>
+	<classpathentry kind="lib" path="C:/Pooja Pace Docs/UBiTech Google Glass Hackaton/javax.mail-1.3.3.01.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Pooja Pace Docs/UBiTech Google Glass Hackaton/javax.mail-1.3.3.01.jar/javax.mail-1.3.3.01.jar"/>
+	<classpathentry kind="lib" path="C:/Pooja Pace Docs/UBiTech Google Glass Hackaton/javax.mail-1.4.5.jar/javax.mail-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Pooja Pace Docs/UBiTech Google Glass Hackaton/javax.mail-1.5.0.jar/javax.mail-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Pooja Pace Docs/UBiTech Google Glass Hackaton/javax.mail-api-1.4.6.jar/javax.mail-api-1.4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
